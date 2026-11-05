@@ -2,11 +2,9 @@
 
 A small React component library for my own projects. It covers the usual controls: buttons, form fields, dialogs, tabs and toasts. Components are keyboard accessible, and the theme has a light and a dark mode.
 
-![Account settings, shown in Storybook](docs/screenshot.png)
+[![Account settings, shown in Storybook](docs/screenshot.png)](https://react-ui-kit-coral.vercel.app)
 
-Live Storybook: https://react-ui-kit-nfsmaapoy.vercel.app
-
-That URL is a placeholder. Replace it after the Vercel project is connected. `vercel.json` already tells Vercel to build Storybook.
+Live Storybook: https://react-ui-kit-coral.vercel.app
 
 ## Install
 
